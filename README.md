@@ -39,9 +39,9 @@
 【链接】[fograinwater/GrassWalker(github.com)](https://github.com/fograinwater/GrassWalker)
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile1.webp" width="300"/>
-    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile2.webp" width="300"/>
+    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile3.webp" width="300"/>
 </center>
+
 
 
 
@@ -50,7 +50,6 @@
 ……
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile3.webp" width="300"/>
     <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile4.webp" width="300"/>
 </center>
 
