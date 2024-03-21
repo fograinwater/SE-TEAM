@@ -8,7 +8,7 @@
 
 学校：华中师范大学
 
-<img src="C:\Users\Admin\Pictures\Camera Roll\头像1.png" alt="头像1" style="zoom:80%;" />
+学院：计算机学院
 
 
 
