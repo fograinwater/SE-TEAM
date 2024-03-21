@@ -128,22 +128,3 @@
         <img src="https://cdn.jsdelivr.net/gh/fuxiaoiii/Pictures/202401071717059.png"  style="max-width: 100%; height: auto;">
     </div>
 </div>
-
-
->>>>>>> wqy
-
-
-
-
-<<<<<<< HEAD
-##### 2.寻医有道
-
-……
-
-<center class="half">
-    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile4.webp" width="300"/>
-</center>
-=======
-
-
->>>>>>> wqy
