@@ -1,0 +1,58 @@
+# #个人介绍
+
+## 自我简介
+
+姓名：刘昱娴
+
+邮箱：2780197685@qq.com
+
+学校：华中师范大学
+
+<img src="C:\Users\Admin\Pictures\Camera Roll\头像1.png" alt="头像1" style="zoom:80%;" />
+
+
+
+## 代码示例
+
+```javascript
+function WrappedPromiseAll(iteratorThing) {
+    return new Promise((resolve, reject) => {
+        let results = [];
+        let mes = Array.from(iteratorThing);
+        let completedCount = 0;
+
+        if(mes.length === 0) {
+            resolve(results);
+            return;
+        }
+
+        mes.forEach((element, index) => {
+            Promise.resolve(element)
+                .then(res => {
+                    results[index] = res;
+                    completedCount++;
+                    if(completedCount == mes.length) resolve(results);
+                })
+                .catch(error => reject(error));
+
+        });
+    })
+}
+
+//利用promise，实现隔1s输出1，隔2s输出2....直到10s输出10
+function fn_sleep(delay) {
+    return new Promise(resolve => {
+        let timer = setTimeout(() => {
+            console.log(delay);
+            clearTimeout(timer);
+            resolve();
+        }, delay*1000);
+    })
+}
+
+async function fn_log_wait(count) {
+    for(let i = 1; i <= count; i++) await fn_sleep(i);
+}
+fn_log_wait(10);
+```
+
