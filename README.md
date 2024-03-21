@@ -10,15 +10,15 @@
 
 ## 谭婷婷
 
-#### 基本信息<img align="right" src="D:\Code\images\girl.gif" width="300" height="290" style="margin-top:40px"/>
+#### 基本信息 <img align="right" src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/girl.gif" width="300" height="290" style="margin-top:40px"/>
 
-- 🔭 **院校**：华中师范大学计算机学院
+- 🔭 **院校**：华中师范大学计算机学院  
 - 🌱 **籍贯**：重庆
 - 👯 **专业**：计算机科学与技术
 - 💬 **专业技能**：APP开发
 - 📫**联系方式**: 
-  - email: ttt18598552579@163.com
-  - qq: 3528090018
+  - **email**: ttt18598552579@163.com
+  - **qq**: 3528090018
 
 
 
@@ -39,8 +39,8 @@
 【链接】[fograinwater/GrassWalker(github.com)](https://github.com/fograinwater/GrassWalker)
 
 <center class="half">
-    <img src="D:\Code\Resources\images\profile1.webp" width="300"/>
-    <img src="D:\Code\Resources\images\profile2.webp" width="300"/>
+    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile1.webp" width="300"/>
+    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile2.webp" width="300"/>
 </center>
 
 
@@ -50,7 +50,7 @@
 ……
 
 <center class="half">
-    <img src="D:\Code\Resources\images\profile3.webp" width="300"/>
-    <img src="D:\Code\Resources\images\profile4.webp" width="300"/>
+    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile3.webp" width="300"/>
+    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile4.webp" width="300"/>
 </center>
 
