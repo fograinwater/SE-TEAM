@@ -1,8 +1,8 @@
+# 王庆焱
+
 <div style="background-color: #000033;width: 100%;">
 	<h3 style="color: white;text-align: center;padding: 5px;">简历</h3>
 </div>
-
-
 
 ### 个人资料
 
@@ -83,4 +83,3 @@
         <img src="https://cdn.jsdelivr.net/gh/fuxiaoiii/Pictures/202401071717059.png"  style="max-width: 100%; height: auto;">
     </div>
 </div>
-
