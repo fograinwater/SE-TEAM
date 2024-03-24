@@ -170,12 +170,12 @@
 ### 人际关系
 | 关系 | 相关人物 |
 |:------:|:-------:|
-| 父亲 | 懒爸爸 |  
-| 母亲 | 懒妈妈 |  
-| 宠物 | 蛋蛋 |  
-| 老师/村长 | 慢羊羊 | 
-| 最好的朋友 | 小灰灰 喜羊羊 | 
-| 同学/朋友 | 喜羊羊、美羊羊、沸羊羊、暖羊羊、小灰灰、小香香、小刀羊、蕉太狼、冰冰羊、忽悠老羊（见《喜羊羊与灰太狼之羊羊运动会》）、小希（见《喜羊羊与灰太狼之奇幻天空岛》）、小木（见《喜羊羊与灰太狼之异国大营救》）、灰太狼、红太狼、狼将军、七大恶狼（《喜羊羊与灰太狼之羊村守护者》之后）、皓月（《喜羊羊与灰太狼之异国大营救》）、兔可爱（《喜羊羊与灰太狼之筐出胜利》）。潇洒哥、黑大帅（《喜羊羊与灰太狼之古古怪界大作战》 | 
+| 父亲 | 懒爸爸 |
+| 母亲 | 懒妈妈 |
+| 宠物 | 蛋蛋 |
+| 老师/村长 | 慢羊羊 |
+| 最好的朋友 | 小灰灰 喜羊羊 |
+| 同学/朋友 | 喜羊羊、美羊羊、沸羊羊、暖羊羊、小灰灰、小香香、小刀羊、蕉太狼、冰冰羊、忽悠老羊（见《喜羊羊与灰太狼之羊羊运动会》）、小希（见《喜羊羊与灰太狼之奇幻天空岛》）、小木（见《喜羊羊与灰太狼之异国大营救》）、灰太狼、红太狼、狼将军、七大恶狼（《喜羊羊与灰太狼之羊村守护者》之后）、皓月（《喜羊羊与灰太狼之异国大营救》）、兔可爱（《喜羊羊与灰太狼之筐出胜利》）。潇洒哥、黑大帅（《喜羊羊与灰太狼之古古怪界大作战》 |
 | 义兄弟  |  小灰灰、小恐鸟（见《喜羊羊与灰太狼之虎虎生威》小刀羊（见《喜羊羊与灰太狼之羊羊运动会》 |
 
 ## 史承钰
@@ -187,3 +187,66 @@
 1. C++,Go
 2. Mysql,Redis
 3. 微服务，es，消息队列
+
+
+## 刘昱娴
+
+### 简介
+
+- 邮箱：2780197685@qq.com
+
+- 学校：华中师范大学
+
+
+- 学院：计算机学院
+
+
+### 专业技能
+1. 熟悉掌握计算机基础知识，如常见的数据结构、算法、计算机网络以及操作系统等领域的知识。
+
+2. 熟悉前端三件套，ES6+语法，React、Vue3等框架
+
+### 代码示例
+
+```JavaScript
+function WrappedPromiseAll(iteratorThing) {
+    return new Promise((resolve, reject) => {
+        let results = [];
+        let mes = Array.from(iteratorThing);
+        let completedCount = 0;
+
+        if(mes.length === 0) {
+            resolve(results);
+            return;
+        }
+
+        mes.forEach((element, index) => {
+            Promise.resolve(element)
+                .then(res => {
+                    results[index] = res;
+                    completedCount++;
+                    if(completedCount == mes.length) resolve(results);
+                })
+                .catch(error => reject(error));
+
+        });
+    })
+}
+
+//利用promise，实现隔1s输出1，隔2s输出2....直到10s输出10
+function fn_sleep(delay) {
+    return new Promise(resolve => {
+        let timer = setTimeout(() => {
+            console.log(delay);
+            clearTimeout(timer);
+            resolve();
+        }, delay*1000);
+    })
+}
+
+async function fn_log_wait(count) {
+    for(let i = 1; i <= count; i++) await fn_sleep(i);
+}
+fn_log_wait(10);
+```
+
