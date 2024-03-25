@@ -43,8 +43,6 @@
 </center>
 
 
-
-
 ##### 2.寻医有道
 
 ……
@@ -52,4 +50,3 @@
 <center class="half">
     <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile4.webp" width="300"/>
 </center>
-
