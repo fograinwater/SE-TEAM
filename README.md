@@ -1,12 +1,3 @@
-# SE-Spring 团队成员简介
-
-#### we are coming from CCNU~ A SE team!
-
-<center class="half">
-    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/together.jpg"/>
-</center>
-
-
 
 ## 谭婷婷
 
