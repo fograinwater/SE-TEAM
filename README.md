@@ -3,7 +3,7 @@
 #### we are coming from CCNU~ A SE team!
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/together.jpg"/>
+    <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/together.jpg" />
 </center>
 
 
@@ -34,13 +34,15 @@
 
 #### 项目经历
 
-##### 1.骏草行者
+##### 骏草行者
 
 【链接】[fograinwater/GrassWalker(github.com)](https://github.com/fograinwater/GrassWalker)
 
 <center class="half">
     <img src="https://raw.githubusercontent.com/fograinwater/PicGo-img/master/win11/profile3.webp" width="300"/>
 </center>
+
+
 
 
 ## 王庆焱
@@ -51,7 +53,6 @@
 
 
 ### 个人资料
-
 ------
 
 <div style="float: left;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
@@ -69,8 +70,6 @@
         <img src="https://raw.githubusercontent.com/fuxiaoiii/Pictures/main/202403191948958.png" width="160px" height="130px" ">
     </div>
 </div>
-
-
 
 
 
@@ -129,10 +128,13 @@
     </div>
 </div>
 
+
 ## 懒羊羊
+
 <center class="half">
     <img src="https://i0.imgs.ovh/2024/03/20/eiYmC.jpeg"/>
 </center>
+
 
 懒羊羊，动画《喜羊羊与灰太狼》中的角色，“草原三剑客”之一。
 他是青青草原上最可爱的小羊，同时也是很幸运的小羊，每次遇到危险时，都能化险为夷，一旦闻到食物的香味，马上会被吸引过去。最喜欢吃零食和睡懒觉。
@@ -178,6 +180,8 @@
 | 同学/朋友 | 喜羊羊、美羊羊、沸羊羊、暖羊羊、小灰灰、小香香、小刀羊、蕉太狼、冰冰羊、忽悠老羊（见《喜羊羊与灰太狼之羊羊运动会》）、小希（见《喜羊羊与灰太狼之奇幻天空岛》）、小木（见《喜羊羊与灰太狼之异国大营救》）、灰太狼、红太狼、狼将军、七大恶狼（《喜羊羊与灰太狼之羊村守护者》之后）、皓月（《喜羊羊与灰太狼之异国大营救》）、兔可爱（《喜羊羊与灰太狼之筐出胜利》）。潇洒哥、黑大帅（《喜羊羊与灰太狼之古古怪界大作战》 |
 | 义兄弟  |  小灰灰、小恐鸟（见《喜羊羊与灰太狼之虎虎生威》小刀羊（见《喜羊羊与灰太狼之羊羊运动会》 |
 
+
+
 ## 史承钰
 
 - 社恐
@@ -187,6 +191,7 @@
 1. C++,Go
 2. Mysql,Redis
 3. 微服务，es，消息队列
+
 
 
 ## 刘昱娴
@@ -249,4 +254,3 @@ async function fn_log_wait(count) {
 }
 fn_log_wait(10);
 ```
-
