@@ -173,8 +173,7 @@
 6. 衣着：吊床、口水垫、枕头(平常)。中间有绿色漩涡的白色短袖，领口袖口呈紫色，脖子上挂着金色吊坠，搭配绿色短裤和红白色运动鞋，身材苗条，一幅富家公子模样，兼具帅气与可爱。(见决战次时代官方拟人)
 7. 最爱的食物：青草蛋糕(最爱)、松子巧克力、薯片、梦幻蘑菇汤等。
 8. 害怕：被冤枉、零食被吃掉或者被没收、被沸羊羊打骂、朋友遗忘、没有生命的意义和价值
-
-![描述](https://github.com/fograinwater/SE-TEAM/blob/dj/profiles/wqy/3.jpg?raw=true)
+  ![描述](https://github.com/fograinwater/SE-TEAM/blob/dj/profiles/wqy/3.jpg?raw=true)
 
 
 ### 人际关系
