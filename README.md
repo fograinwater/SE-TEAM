@@ -131,9 +131,9 @@
 
 ## 懒羊羊
 
-<div style="text-align:center;">
-    <img src="https://i0.imgs.ovh/2024/03/20/eiYmC.jpeg"/>
-</div>
+<center class="half">
+    <img src="https://i0.imgs.ovh/2024/03/20/eidRt.jpeg"/>
+</center>
 
 
 懒羊羊，动画《喜羊羊与灰太狼》中的角色，“草原三剑客”之一。
