@@ -155,17 +155,14 @@
 缺点：唱歌难听（见《喜羊羊与灰太狼》第53集懒羊羊的歌声）、笑容可怕（《喜羊羊与灰太狼之开心日记》第17集最可爱笑容小羊）、平时护食胆小(但是关键时刻会为了朋友变得无私勇敢，参考懒羊羊外传，开心日记的我要吃肉，给快乐加油的求你吃掉我吧，羊羊快乐的一年的临时爸爸)
 5. 爱好：睡觉、吃零食、唱歌、品尝美食、撒娇。
 
-<center class="half">
-    <img src="https://i0.imgs.ovh/2024/03/20/eidRt.jpeg"/>
-</center>
+![描述](https://github.com/fograinwater/SE-TEAM/blob/dj/profiles/wqy/2.jpg?raw=true)
 
 6. 衣着：吊床、口水垫、枕头(平常)。中间有绿色漩涡的白色短袖，领口袖口呈紫色，脖子上挂着金色吊坠，搭配绿色短裤和红白色运动鞋，身材苗条，一幅富家公子模样，兼具帅气与可爱。(见决战次时代官方拟人)
 7. 最爱的食物：青草蛋糕(最爱)、松子巧克力、薯片、梦幻蘑菇汤等。
 8. 害怕：被冤枉、零食被吃掉或者被没收、被沸羊羊打骂、朋友遗忘、没有生命的意义和价值
    
-<center class="half">
-    <img src="https://i0.imgs.ovh/2024/03/20/ei8qm.jpeg"/>
-</center>
+![描述](https://github.com/fograinwater/SE-TEAM/blob/dj/profiles/wqy/3.jpg?raw=true)
+
 
 ### 人际关系
 | 关系 | 相关人物 |
