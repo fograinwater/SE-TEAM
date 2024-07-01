@@ -132,7 +132,7 @@
 ## 懒羊羊
 
 <center class="half">
-    <img src="https://i0.imgs.ovh/2024/03/20/eiYmC.jpeg"/>
+    <img src="[https://i0.imgs.ovh/2024/03/20/eiYmC.jpeg](https://ibb.co/njXk5g4)"/>
 </center>
 
 
